@@ -68,7 +68,7 @@ elasticsearch-dsl==6.0.1
 entrypoints==0.2.3
 Faker==1.0.1
 flake8==3.5.0
-Flask==0.12.2
+Flask==1.0
 freezegun==0.3.11
 geojson==2.4.1
 google-i18n-address==2.3.3
