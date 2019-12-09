@@ -208,7 +208,7 @@ tinycss2==0.6.1
 tornado==5.1
 traitlets==4.3.2
 tweepy==3.5.0
-Twisted==18.9.0
+Twisted==19.7.0
 typing==3.6.6
 Unidecode==0.4.21
 update-checker==0.16
