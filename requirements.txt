@@ -179,7 +179,7 @@ raven==6.9.0
 razorpay==1.1.1
 redis==2.10.6
 regex==2019.11.1
-requests==2.17.1
+requests==2.20.0
 requests-oauthlib==1.0.0
 requests-toolbelt==0.8.0
 Rx==1.6.1
