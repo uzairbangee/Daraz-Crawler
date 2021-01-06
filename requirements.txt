@@ -15,7 +15,7 @@ boto3==1.9.67
 botocore==1.12.67
 braintree==3.49.0
 cairocffi==0.9.0
-CairoSVG==2.2.1
+CairoSVG==2.5.1
 celery==4.2.1
 certifi==2018.11.29
 cffi==1.11.5
