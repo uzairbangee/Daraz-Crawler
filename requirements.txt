@@ -153,7 +153,7 @@ pycparser==2.19
 PyDispatcher==2.0.5
 pyflakes==1.6.0
 pygame==1.9.3
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 PyJWT==1.7.1
 pymessenger==0.0.7.0
