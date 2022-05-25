@@ -155,7 +155,7 @@ pyflakes==1.6.0
 pygame==1.9.3
 Pygments==2.3.1
 PyHamcrest==1.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pymessenger==0.0.7.0
 PyMySQL==0.8.0
 pyOpenSSL==17.5.0
