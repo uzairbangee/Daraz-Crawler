@@ -37,7 +37,7 @@ django-appconf==1.0.2
 django-babel==0.6.2
 django-bootstrap4==0.0.7
 django-cache-url==3.0.0
-django-celery-results==1.0.4
+django-celery-results==2.4.0
 django-countries==5.3.2
 django-debug-toolbar==1.11
 django-debug-toolbar-request-history==0.0.9
